@@ -1,0 +1,18 @@
+body{
+    background: url('https://www.learnreligions.com/thmb/-VmjnsLNdVAkCAazEFZFdDcrjHM=/6000x4000/filters:fill(auto,1)/himalaya-mountains-landscape-from-kalapattar-view-point-at-sunset--everest-region--nepal-864223704-5c7374c546e0fb0001835dc3.jpg');
+    background-size: cover;
+    color: #e5e4cc;
+}
+
+h1{
+    padding: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover{
+    color: inherit;
+}
